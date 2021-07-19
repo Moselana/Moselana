@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Moselana
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email address : plutomoselana@gmail.com
 
 <!---
